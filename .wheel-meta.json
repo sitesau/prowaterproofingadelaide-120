@@ -1,0 +1,22 @@
+{
+  "wheel_id": 933,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-120",
+  "project": "waterproofing-services-adelaide-diy-vs-professional-3bcb1ef1dcf",
+  "parent_t1_ref": "prowaterproofingadelaide-159",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing services adelaide diy vs professional",
+  "intended_url": "http://waterproofing-services-adelaide-diy-vs-professional-3bcb1ef1dcf.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "bc90ebb80fe5eeed",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/waterproofing-services-adelaide-materials-compared-f141d46a656b/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
